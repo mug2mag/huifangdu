@@ -11,7 +11,7 @@ Hi! My name is Huifang Du. I’m a Ph.D. student at Tongji University under the 
 - Nov. 2021 - Jun. 2023: Research Intern at BMW, supervised by Dr. Xixie Zhang.
 - Jul. 2017 - Aug. 2020: Research Engineer at [Memect](https://www.memect.cn/), supervised by Dr. [Jie Bao](https://github.com/baojie).
 
-### Publications
+### Selected Publications
 
 - Huifang Du, Xuejing Feng, Jun Ma, Meng Wang, Shiyu Tao, Yijie Zhong, Yuan-Fang Li, and Haofen Wang. Towards proactive interactions for in-
 vehicle conversational assistants utilizing large language models. In Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, IJCAI-24, pages 7850–7858.
