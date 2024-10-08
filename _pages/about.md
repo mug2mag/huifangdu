@@ -22,7 +22,7 @@ Hi! My name is Huifang Du. I’m a Ph.D. candidate at Tongji University under th
 
 ### Selected Publications
 
-- **Huifang Du**, Xuejing Feng, Jun Ma, Meng Wang, Shiyu Tao, Yijie Zhong, Yuan-Fang Li, and Haofen Wang. [Towards proactive interactions for in-vehicle conversational assistants utilizing large language models.](https://arxiv.org/abs/2403.09135) In Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, IJCAI-24, pages 7850–7858.
+- **Huifang Du**, Xuejing Feng, Jun Ma, Meng Wang, Shiyu Tao, Yijie Zhong, Yuan-Fang Li, and Haofen Wang. [Towards proactive interactions for in-vehicle conversational assistants utilizing large language models.](https://arxiv.org/abs/2403.09135) In Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, 2024, pages 7850–7858.
 - **Lingyuan Liu, Huifang Du**, Xiaolian Zhang, Mengying Guo, Haofen Wang, Meng Wang. [A Question-Answering Assistant over Personal Knowledge Graph.](https://dl.acm.org/doi/abs/10.1145/3626772.3657665) InProceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval 2024 Jul 10 (pp. 2708-2712).
 - **Huifang Du**, Shuqin Li, Minghao Wu, Xuejing Feng, Yuan-Fang Li, Haofen Wang. [Rewarding What Matters: Step-by-Step Reinforcement Learning for Task-Oriented Dialogue.](https://arxiv.org/abs/2406.14457) EMNLP Findings. 2024 Jun 20.
 - **Huifang Du**, Shiyu Tao, Xuejing Feng, Jun Ma, Haofen Wang. [From Passive to Active: Towards Conversational In-Vehicle Navigation Through Large Language Models.](https://link.springer.com/chapter/10.1007/978-3-031-61353-1_11) InInternational Conference on Human-Computer Interaction 2024 Jun 15 (pp. 159-172).
