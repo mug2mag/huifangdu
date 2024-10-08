@@ -1,5 +1,5 @@
-### Introduction
-Hi! My name is Huifang Du. I’m a Ph.D. student at Tongji University under the supervision of [Haofen Wang](https://scholar.google.com/citations?user=1FhdXpsAAAAJ&hl=en&oi=ao). My research interests include KBQA, Task-Oriented Dialogue, and Human-Centered Dialogue.
+candidate### Introduction
+Hi! My name is Huifang Du. I’m a Ph.D. candidate at Tongji University under the supervision of [Haofen Wang](https://scholar.google.com/citations?user=1FhdXpsAAAAJ&hl=en&oi=ao). My research interests include KBQA, Task-Oriented Dialogue, and Human-Centered Dialogue.
 
 ### Education
 - Ph.D. Advanced Technology and Design, Tongji University, 2020, supervised by [Prof. Haofen Wang](https://scholar.google.com/citations?user=1FhdXpsAAAAJ&hl=en&oi=ao).
