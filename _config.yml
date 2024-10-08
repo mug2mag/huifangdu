@@ -12,7 +12,7 @@ title                    : "Huifang Du / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Huifang Du"
 # description              : &description "personal description"
-url                      : https://github.com/mug2mag/huifangdu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mug2mag.github.io/huifangdu/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 
